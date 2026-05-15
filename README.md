@@ -5,47 +5,29 @@
 I’m an aspiring Data Analyst passionate about transforming raw data into meaningful insights and interactive dashboards.  
 Currently learning and building projects using Excel, SQL, Power BI, Python, and data visualization tools.
 
-## 📌 Here You'll Find
+---
 
-- 📊 Data analysis projects & dashboards
-- 📚 My learning journey in analytics
-- 🛠️ Practice projects using real-world datasets
-- 🌱 Continuous improvement, one project at a time
+## 🌐 Connect With Me
 
-I come from a marketing background and am now transitioning into the world of data analytics by building practical projects and learning through hands-on experience.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manasi-purohit24/)
 
 ---
 
-## 🚀 Tools & Technologies
+## 💻 Tech Stack
 
-- 📈 Excel
-- 🗄️ SQL
-- 📊 Power BI
-- 🐍 Python
-- 📉 Pandas & Matplotlib
-- 🔍 Data Cleaning & Visualization
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
----
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
 
-## 🌱 Currently Learning
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-- Advanced SQL Queries
-- Power BI Dashboards
-- Python for Data Analysis
-- DAX & Power Query
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📫 Let's Connect
-
-- LinkedIn
-- GitHub
-- Portfolio (Coming Soon ✨)
-
----
-
-✨ *Every expert was once a beginner.*  
-Thanks for visiting my profile!
+✨ Thanks for visiting my profile!
 
 
 
