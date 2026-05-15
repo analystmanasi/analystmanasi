@@ -2,8 +2,15 @@
 
 🌸 Welcome to my GitHub profile!
 
-I’m an aspiring Data Analyst passionate about transforming raw data into meaningful insights and interactive dashboards.  
-Currently learning and building projects using Excel, SQL, Power BI, Python, and data visualization tools.
+Here I document my journey — from learning Excel formulas and SQL queries to building dashboards in Power BI and exploring Python for data analysis.
+
+Here you’ll find:
+- 📊 Data analysis projects & dashboards
+- 🛠️ Hands-on practice with real-world datasets
+- 📚 Notes, learnings, and problem-solving
+- 🌱 Continuous growth, one project at a time
+
+I believe you don’t need to know everything to start — you just need consistency, curiosity, and the willingness to keep learning.
 
 ---
 
@@ -21,7 +28,6 @@ Currently learning and building projects using Excel, SQL, Power BI, Python, and
 
 ---
 
-✨ Thanks for visiting my profile!
-
+Thanks for stopping by 💙
 
 
