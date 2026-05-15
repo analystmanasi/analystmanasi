@@ -2,7 +2,7 @@
 
 🌸 Welcome to my GitHub profile!
 
-Here I document my journey — from learning Excel formulas and SQL queries to building dashboards in Power BI and exploring Python for data analysis.
+Here, I document my journey from learning Excel formulas and SQL queries to building dashboards in Power BI and exploring Python for data analysis.
 
 Here you’ll find:
 - 📊 Data analysis projects & dashboards
@@ -10,7 +10,7 @@ Here you’ll find:
 - 📚 Notes, learnings, and problem-solving
 - 🌱 Continuous growth, one project at a time
 
-I believe you don’t need to know everything to start — you just need consistency, curiosity, and the willingness to keep learning.
+I believe you don’t need to know everything to start; you just need consistency, curiosity, and the willingness to keep learning.
 
 ---
 
